@@ -6,16 +6,16 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'The latest drone videography and photography from around the world. '
-datePublished: '2016-01-03T14:43:12.505Z'
-dateModified: '2016-01-03T14:34:23.360Z'
+datePublished: '2016-01-03T14:52:40.501Z'
+dateModified: '2016-01-03T14:44:45.120Z'
 title: Here comes the boom
 author: []
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 sourcePath: _posts/2016-01-03-here-comes-the-boom.md
 published: true
 url: here-comes-the-boom/index.html
