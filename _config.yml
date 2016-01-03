@@ -1,4 +1,8 @@
-layout_spectrum: 0.9376054
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,32 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.2124789
   brandStrength: 0.4831366
-  lightness: 0.549747
+  rhythmicContrast: 0.7689713
   brandColors:
     - '#91919B'
     - '#FBFCFB'
     - '#B4CFE1'
     - '#3B6EA1'
     - '#433920'
-  rhythmicContrast: 0.7689713
+  lightness: 0.549747
 typography_spectrum: 0.7445194
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.8001686
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: InfinitePerspective
