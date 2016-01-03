@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'The latest drone videography and photography from around the world. '
-datePublished: '2016-01-03T14:32:38.214Z'
-dateModified: '2016-01-03T14:32:00.538Z'
+datePublished: '2016-01-03T14:34:23.360Z'
+dateModified: '2016-01-03T14:34:15.573Z'
 title: Here comes the boom
 author: []
 authors: []
