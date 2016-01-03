@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T18:53:06.694Z'
-dateModified: '2016-01-03T18:52:34.426Z'
+datePublished: '2016-01-03T18:59:11.689Z'
+dateModified: '2016-01-03T18:59:07.207Z'
 title: SEND IN THE DRONES
 author: []
+sourcePath: _posts/2016-01-03-send-in-the-drones.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-send-in-the-drones.md
-published: true
 url: send-in-the-drones/index.html
 _type: Article
 
