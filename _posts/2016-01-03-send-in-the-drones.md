@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-03T18:59:11.689Z'
-dateModified: '2016-01-03T18:59:07.207Z'
+datePublished: '2016-01-03T19:02:50.143Z'
+dateModified: '2016-01-03T19:02:42.514Z'
 title: SEND IN THE DRONES
 author: []
 sourcePath: _posts/2016-01-03-send-in-the-drones.md
