@@ -1,5 +1,7 @@
-favicon: null
-name: InfinitePerspective
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -28,13 +30,11 @@ color:
     - '#3B6EA1'
     - '#433920'
   rhythmicContrast: 0.7689713
-typography_spectrum: 0
+typography_spectrum: 0.7445194
 layout_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: InfinitePerspective
