@@ -1,0 +1,28 @@
+name: InfinitePerspective
+favicon: null
+layout_spectrum: 0.020982961170375347
+typography_spectrum: 0.48939079651609063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.44445501477457583
+  lightness: 0.43881027260795236
+  saturation: 0.26145067042671144
+  rhythmicContrast: 0.49023739132098854
+purpose: []
