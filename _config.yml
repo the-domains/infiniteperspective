@@ -1,5 +1,7 @@
-favicon: null
-name: InfinitePerspective
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -19,22 +21,20 @@ collections:
 purpose: []
 color:
   saturation: 0.6424958
-  brandStrength: 0.6357504
   lightness: 0.7816189
+  brandStrength: 0.6357504
   brandColors:
-    - '#0C060B'
-    - '#884216'
-    - '#FBFCFA'
-    - '#658955'
-    - '#FCC56F'
+    - '#91919B'
+    - '#FBFCFB'
+    - '#B4CFE1'
+    - '#3B6EA1'
+    - '#433920'
   rhythmicContrast: 0.7689713
 typography_spectrum: 0
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0
+favicon: null
+name: InfinitePerspective
