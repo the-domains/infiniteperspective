@@ -1,28 +1,40 @@
-name: InfinitePerspective
 favicon: null
-layout_spectrum: 0.020982961170375347
-typography_spectrum: 0.48939079651609063
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: InfinitePerspective
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.44445501477457583
-  lightness: 0.43881027260795236
-  saturation: 0.26145067042671144
-  rhythmicContrast: 0.49023739132098854
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2614506704267114
+  lightness: 0.4388102726079524
+  brandStrength: 0.6357504
+  brandColors:
+    - '#0C060B'
+    - '#884216'
+    - '#FBFCFA'
+    - '#658955'
+    - '#FCC56F'
+  rhythmicContrast: 0.4902373913209885
+typography_spectrum: 0.4893907965160906
+layout_spectrum: 0.9586847
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
